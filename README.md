@@ -247,14 +247,8 @@ If you want to add features (batch processing, CLI mode, logging, etc.), the eas
 
 ## License
 
-Add your preferred license here, for example:
-
 ```text
 MIT License
-Copyright (c) 2025 <Your Name>
+Copyright (c) 2025 <Alejandro Lazcano>
 ...
 ```
-
----
-
-If you tell me the exact name of your repository and how you want to describe yourself (author, contact, etc.), I can tailor this README with those details filled in.
