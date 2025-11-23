@@ -1,7 +1,3 @@
-Here’s a README you can drop straight into your repo as `README.md` 👇
-
----
-
 # EPUB Chapter Extractor (GUI)
 
 A small Python tool that extracts **chapters from EPUB books** and saves each chapter as a separate `.txt` file.
